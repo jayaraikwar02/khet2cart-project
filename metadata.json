@@ -1,0 +1,6 @@
+{
+  "name": "Khet2Cart - Khet se seedha cart tak",
+  "description": "Direct farm-to-consumer marketplace connecting farmers directly with consumers to eliminate unnecessary middlemen, increase farmer earnings, and ensure fresh produce at fair prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
